@@ -16,9 +16,7 @@ $total=$subtotal+$flete-$descuento;
 echo "El precio total a pagar es: ".$total."<br>";
 echo "El monto por flete es: ".$flete."<br>";
 echo "El descuento aplicado fue: ".$descuento;
-<<<<<<< HEAD
 
-=======
 
 switch($edad)
 {
@@ -33,5 +31,4 @@ switch($edad)
         break;
 }
 
->>>>>>> issue2
 ?>
